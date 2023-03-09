@@ -9,8 +9,10 @@ http://www.boost.org/LICENSE_1_0.txt
 
 [#reference]
 # Reference
+ifndef::site-gen-antora[]
 :toc:
 :toc-title:
+endif::[]
 :idprefix:
 
 The contents of the library are in namespace `boost::mp11`.

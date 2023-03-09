@@ -1,0 +1,5 @@
+name: mp11
+title: Boost.Mp11
+version: ~
+nav:
+  - modules/ROOT/nav.adoc

@@ -9,8 +9,10 @@ http://www.boost.org/LICENSE_1_0.txt
 
 [#mpl]
 # MPL Support, <boost/mp11/mpl.hpp>
+ifndef::site-gen-antora[]
 :toc:
 :toc-title:
+endif::[]
 :idprefix:
 
 The header `<boost/mp11/mpl.hpp>`, when included, defines the

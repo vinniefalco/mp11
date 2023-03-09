@@ -9,8 +9,10 @@ http://www.boost.org/LICENSE_1_0.txt
 
 [#function]
 # Helper Metafunctions, <boost/mp11/function.hpp>
+ifndef::site-gen-antora[]
 :toc:
 :toc-title:
+endif::[]
 :idprefix:
 
 ## mp_void<T...>

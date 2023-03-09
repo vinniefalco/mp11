@@ -9,8 +9,10 @@ http://www.boost.org/LICENSE_1_0.txt
 
 [#tuple]
 # Tuple Operations, <boost/mp11/tuple.hpp>
+ifndef::site-gen-antora[]
 :toc:
 :toc-title:
+endif::[]
 :idprefix:
 
 ## tuple_apply(f, tp)

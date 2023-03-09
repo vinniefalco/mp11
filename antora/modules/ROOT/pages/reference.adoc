@@ -7,13 +7,10 @@ See accompanying file LICENSE_1_0.txt or copy at
 http://www.boost.org/LICENSE_1_0.txt
 ////
 
-[#mp11]
-# Convenience Header, <boost/mp11.hpp>
-ifndef::site-gen-antora[]
+[#reference]
+# Reference
 :toc:
 :toc-title:
-endif::[]
 :idprefix:
 
-The convenience header `<boost/mp11.hpp>` includes all of the
-headers listed previously in this reference.
+The contents of the library are in namespace `boost::mp11`.

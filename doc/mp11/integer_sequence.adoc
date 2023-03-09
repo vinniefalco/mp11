@@ -9,8 +9,10 @@ http://www.boost.org/LICENSE_1_0.txt
 
 [#integer_sequence]
 # Integer Sequences, <boost/mp11/integer_sequence.hpp>
+ifndef::site-gen-antora[]
 :toc:
 :toc-title:
+endif::[]
 :idprefix:
 
 ## integer_sequence<T, I...>

@@ -9,8 +9,10 @@ http://www.boost.org/LICENSE_1_0.txt
 
 [#utility]
 # Utility Components, <boost/mp11/utility.hpp>
+ifndef::site-gen-antora[]
 :toc:
 :toc-title:
+endif::[]
 :idprefix:
 
 ## mp_identity<T>

@@ -1,0 +1,1 @@
+../../../../doc/article/simple_cxx11_metaprogramming.adoc

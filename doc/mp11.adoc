@@ -15,24 +15,25 @@ Peter Dimov
 :listing-caption: Code Example
 :table-caption: Illustration
 :docinfo: private-footer
-:source-highlighter: rouge
 :source-language: c++
 
+ifndef::site-gen-antora[]
+:source-highlighter: rouge
+endif::[]
+
+ifndef::site-gen-antora[]
 :leveloffset: +1
-
 include::mp11/overview.adoc[]
-
 include::mp11/definitions.adoc[]
-
 include::mp11/examples.adoc[]
-
 include::mp11/changelog.adoc[]
-
 include::mp11/reference.adoc[]
-
 :leveloffset: -1
-
 [appendix]
+endif::[]
+ifdef::site-gen-antora[]
+[discrete]
+endif::[]
 ## Copyright, License, and Acknowledgments
 
 This documentation is
