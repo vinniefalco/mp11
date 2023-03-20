@@ -21,4 +21,3 @@ Tested on [Github Actions](https://github.com/boostorg/mp11/actions) and [Appvey
 ## License
 
 Distributed under the [Boost Software License, Version 1.0](http://boost.org/LICENSE_1_0.txt).
-
